@@ -12,11 +12,11 @@
 
 ### 2\. העובד
 
-**שם העובד:** {LastName}{Name}
+**שם העובד:** {Name} {LastName}
 
 **ת.ז.:** {ID}
 
-**כתובת:** {EventForm_399_H3_F2}{EventForm_399_H3_F3}{EventForm_399_H3_F4}{EventForm_399_H3_F1}
+**כתובת:** {EventForm_399_H3_F2}{EventForm_399_H3_F3}, {EventForm_399_H3_F1} {EventForm_399_H3_F4}
 
 * * *
 
