@@ -16,7 +16,7 @@
 
 **ת.ז.:** {ID}
 
-**כתובת:** {EventForm_16_H3_F2}{EventForm_16_H3_F3}, {EventForm_16_H3_F1} {EventForm_16_H3_F4}
+**כתובת:** {EventForm_16_H2_F2}{EventForm_16_H2_F3}, {EventForm_16_H2_F1} {EventForm_16_H2_F4}
 
 * * *
 
