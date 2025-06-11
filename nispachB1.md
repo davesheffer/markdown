@@ -4,7 +4,7 @@
 
 **לבין:**  
 {Name} {LastName} ת.ז. {ID} (להלן - "העובד")  
-מכתובת: {EventForm_16_H2_F2}{EventForm_16_H2_F3}, {EventForm_16_H2_F1} {EventForm_16_H2_F4}
+מכתובת: {EventForm_16_H2_F2}{EventForm_16_H2_F3}, {EventForm_16_H2_F4} {EventForm_16_H2_F1} {EventForm_16_H2_F5}
 
   
 
